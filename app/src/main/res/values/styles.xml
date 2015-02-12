@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+	<style name="InfoTextStyle">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textStyle">normal</item>
+		<item name="android:textColor">@android:color/black</item>
+	</style>
+
+	<style name="DialTextStyle">
+		<item name="android:textSize">24dp</item>
+		<item name="android:textStyle">normal</item>
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+
+</resources>

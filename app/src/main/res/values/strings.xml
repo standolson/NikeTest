@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Nike Test</string>
+
+	<string name="show_messages">Show Messages</string>
+	<string name="reset">Reset</string>
+
+	<string name="x_acceleration">X Acceleration: %10.2f m/s2</string>
+	<string name="y_acceleration">Y Acceleration: %10.2f m/s2</string>
+	<string name="z_acceleration">Z Acceleration: %10.2f m/s2</string>
+
+	<string name="azimuth">Azimuth: %6.2f degress</string>
+	<string name="pitch">Pitch: %6.2f degrees</string>
+	<string name="roll">Roll: %6.2f degreees</string>
+
+	<string name="dial_velocity">%.2f m/s</string>
+	<string name="current_velocity">Current Velocity: %.2f m/s</string>
+	<string name="total_velocity">Total Velocity: %.2f m/s</string>
+	<string name="max_velocity">Max Velocity: %.2f m/s</string>
+
+	<string name="push_data_info_msg">Pushing stored data...</string>
+
+</resources>
+
